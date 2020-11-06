@@ -481,10 +481,9 @@
             #row1 {
                 font-size: 20px;
                 font-weight: bold;
-                text-align: center;
                 border: #F08B43 1px solid;
                 background-color: white;
-                padding: 4px 12px;
+                padding: 4px 4px;
             }
 
             #product1 table{
