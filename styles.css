@@ -482,10 +482,11 @@
                 font-size: 20px;
                 font-weight: bold;
                 border: #F08B43 1px solid;
-                background-color: white;
-                padding: 4px 14px;
                 vertical-align: middle;
                 text-align: center;
+                background-color: white;
+                padding: 4px 16px;
+                
             }
 
             #product1 table{
